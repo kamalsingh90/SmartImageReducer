@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574062603421",
+    "project_id": "smartimagereducer",
+    "storage_bucket": "smartimagereducer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574062603421:android:5ca903a05467a4b9327874",
+        "android_client_info": {
+          "package_name": "com.kamal.smartimagereducer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUN2IXvkylui1bzjsYJ1GNyr-GmkxrMMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso:espresso-core:3.4.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/ba4ad48b4eac9f7327608affc0af7c0e/transformed/espresso-core-3.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/ba4ad48b4eac9f7327608affc0af7c0e/transformed/espresso-core-3.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.4.0/527848e2722cd3ada150b991c0e620ec4f0a8b/espresso-core-3.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.4.0/8c2dc35c200b749281e0fbdc1262359e19a99cc3/espresso-core-3.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

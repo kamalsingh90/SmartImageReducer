@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.browser:browser:1.4.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/e92d7fa1ec1b278ddf7485d64dbbcc1a/transformed/browser-1.4.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/e92d7fa1ec1b278ddf7485d64dbbcc1a/transformed/browser-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/e92d7fa1ec1b278ddf7485d64dbbcc1a/transformed/browser-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/e92d7fa1ec1b278ddf7485d64dbbcc1a/transformed/browser-1.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/modules-2/files-2.1/androidx.browser/browser/1.4.0/2a2741f63427dcdb3b6821dd17703bc16ced13a1/browser-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

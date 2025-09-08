@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SmartImage Reducer</string>
+    <string name="size">Size : -</string>
+    <string name="insert_image">Insert Image</string>
+    <string name="compress_image">Compress Image</string>
+    <string name="share_image">Share Image</string>
+    <string name="my_app_title">My App Title</string>
+    <string name="compressed_image">Compressed Image</string>
+
+    <string name="ads_banner_test">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="ads_banner_app">ca-app-pub-9928088726335462/2412721903</string>
+
+  <string name="interstitial_ads_app">ca-app-pub-9928088726335462/3686931665</string>
+
+</resources>

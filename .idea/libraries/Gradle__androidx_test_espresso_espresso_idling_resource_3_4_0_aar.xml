@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.test.espresso:espresso-idling-resource:3.4.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/b76d0746981ac9a4ad1ef1ca617cf2d8/transformed/espresso-idling-resource-3.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/b76d0746981ac9a4ad1ef1ca617cf2d8/transformed/espresso-idling-resource-3.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.4.0/69a300fcf8de2c433672d07a6c436a19dfb9b8f9/espresso-idling-resource-3.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.4.0/80fd2aa3695bf9e0383d53f2f39016960a0156a6/espresso-idling-resource-3.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

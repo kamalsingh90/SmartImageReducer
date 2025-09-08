@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.arch.core:core-runtime:2.2.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/ef466fd70e13c974336a33c4a3c630ef/transformed/core-runtime-2.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/ef466fd70e13c974336a33c4a3c630ef/transformed/core-runtime-2.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/ef466fd70e13c974336a33c4a3c630ef/transformed/core-runtime-2.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/modules-2/files-2.1/androidx.arch.core/core-runtime/2.2.0/48630ad88f438e5a603ae74cf4858203d1a595c5/core-runtime-2.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

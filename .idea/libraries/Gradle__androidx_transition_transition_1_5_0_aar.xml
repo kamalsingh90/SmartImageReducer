@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.transition:transition:1.5.0@aar" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/3e81092608c6af1bccb49dbfbe560eca/transformed/transition-1.5.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/3e81092608c6af1bccb49dbfbe560eca/transformed/transition-1.5.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/3e81092608c6af1bccb49dbfbe560eca/transformed/transition-1.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/3e81092608c6af1bccb49dbfbe560eca/transformed/transition-1.5.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/modules-2/files-2.1/androidx.transition/transition/1.5.0/9372d1f39a8d63c3d6ed67688546a789037ac8b0/transition-1.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

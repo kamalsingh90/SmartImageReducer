@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-lite:23.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/bb712625fac30a61855c6f6c33bc6c15/transformed/jetified-play-services-ads-lite-23.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/bb712625fac30a61855c6f6c33bc6c15/transformed/jetified-play-services-ads-lite-23.0.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/bb712625fac30a61855c6f6c33bc6c15/transformed/jetified-play-services-ads-lite-23.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/modules-2/files-2.1/com.google.android.gms/play-services-ads-lite/23.0.0/829c82832286aa20d98c8b55d1dc8837f215c0fe/play-services-ads-lite-23.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

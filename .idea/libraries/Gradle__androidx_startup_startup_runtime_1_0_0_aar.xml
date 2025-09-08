@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.startup:startup-runtime:1.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/a998847a09618f5d7f54fe31e692ae71/transformed/jetified-startup-runtime-1.0.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/a998847a09618f5d7f54fe31e692ae71/transformed/jetified-startup-runtime-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Current/Project_2025/FaceDetectorModel_Implemenation_code/DxzGallery/DxzGallery/caches/transforms-4/a998847a09618f5d7f54fe31e692ae71/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
